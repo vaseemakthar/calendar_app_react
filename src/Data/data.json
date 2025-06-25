@@ -1,0 +1,30 @@
+[
+  {
+    "date": "2025-07-4",
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "Color": "#f6be23",
+    "title": "Daily Standup"
+  },
+  {
+    "date": "2025-08-1",
+    "startTime": "11:00",
+    "endTime": "12:00",
+    "Color": "#e04b4b",
+    "title": "Client Meeting"
+  },
+  {
+    "date": "2025-09-31",
+    "startTime": "14:00",
+    "endTime": "15:30",
+    "Color": "#56cfe1",
+    "title": "Design Night  Review"
+  },
+  {
+    "date": "2025-10-25",
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "Color": "#83c764",
+    "title": "Code Refactoring"
+  }
+]
